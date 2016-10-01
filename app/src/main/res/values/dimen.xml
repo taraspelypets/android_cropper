@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="span">30dp</dimen>
+    <dimen name="touch_diapason">30dp</dimen>
+    <dimen name="min_cropper_size">100dp</dimen>
+    <dimen name="initial_cropper_padding">10dp</dimen>
+    <dimen name="corner">15dp</dimen>
+    <dimen name="scale_line_height">15dp</dimen>
+    <dimen name="cursor_line_height">20dp</dimen>
+    <dimen name="first_step">15dp</dimen>
+    <dimen name="cursor_line_width">2dp</dimen>
+    <dimen name="scale_line_width">2dp</dimen>
+    <dimen name="bottom_anim">62dp</dimen>
+    <dimen name="size_48dp">48dp</dimen>
+
+</resources>

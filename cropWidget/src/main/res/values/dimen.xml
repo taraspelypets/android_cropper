@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="touch_diapason">30dp</dimen>
+    <dimen name="min_cropper_size">100dp</dimen>
+    <dimen name="initial_cropper_padding">10dp</dimen>
+    <dimen name="corner">15dp</dimen>
+    <dimen name="cropperFrameWidth">1dp</dimen>
+    <dimen name="cropperCornerWidth">3dp</dimen>
+    <dimen name="cropperGridWidth">1dp</dimen>
+
+
+
+
+</resources>
