@@ -21,5 +21,5 @@ In onCropperResult(Bitmap bitmap, RectF cropperRect) beside bitmap of cropped im
 * To crop image, simply call crop().
 
 * To rotate, call rotate(float deg). After rotation image automatically adjusts to fill view:
-https://github.com/taraspelypets/android_cropper/blob/master/Screenshots/ezgif-1629504541.gif
+
 ![](https://github.com/taraspelypets/android_cropper/blob/master/Screenshots/ezgif-1629504541.gif)
